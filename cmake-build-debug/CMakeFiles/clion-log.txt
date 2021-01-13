@@ -1,0 +1,23 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/sueur/Dev/Enssat/C++/Viterbi
+-- The CXX compiler identification is AppleClang 12.0.0.12000032
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Submodule update init done
+-- Checkout: skiped (use -DGT_SUBMODULE_CHECKOUT=ON to activate)
+-- Submodule checkout: skiped (use -DGT_SUBMODULE_CHECKOUT=ON to activate)
+-- Submodule pull: skiped (use -DGT_SUBMODULE_PULL=ON to activate)
+-- Submodule push: skiped (use -DGT_SUBMODULE_PUSH=ON to activate)
+-- Git submodule managment done
+-- Found Boost: /usr/local/lib/cmake/Boost-1.75.0/BoostConfig.cmake (found suitable version "1.75.0", minimum required is "1.50") found components: program_options 
+-- Found Boost: /usr/local/lib/cmake/Boost-1.75.0/BoostConfig.cmake (found suitable version "1.75.0", minimum required is "1.50") found components: system 
+-- Found Doxygen: /usr/local/bin/doxygen (found version "1.9.1") found components: doxygen missing components: dot
+-- Installation finalization
+-- Viterbi configuration installed. You may consider to add this path as a CMAKE prefix. It can be done using the following command for instance : 
+	export CMAKE_PREFIX_PATH="/usr/local":$CMAKE_PREFIX_PATH
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sueur/Dev/Enssat/C++/Viterbi/cmake-build-debug

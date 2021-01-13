@@ -1,0 +1,3 @@
+[submodule "cmake/cmake-tools"]
+	path = cmake/cmake-tools
+	url = ../../Tools/cmake-tools.git

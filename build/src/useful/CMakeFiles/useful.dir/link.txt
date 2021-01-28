@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libuseful.a CMakeFiles/useful.dir/text_proc_parser.cpp.o CMakeFiles/useful.dir/various.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libuseful.a

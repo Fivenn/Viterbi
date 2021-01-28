@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libviterbi.a CMakeFiles/viterbi.dir/translation_table.cpp.o CMakeFiles/viterbi.dir/utterance.cpp.o CMakeFiles/viterbi.dir/viterbi.cpp.o CMakeFiles/viterbi.dir/vocabulary.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libviterbi.a

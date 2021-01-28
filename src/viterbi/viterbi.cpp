@@ -87,6 +87,26 @@ Utterance viterbi::Viterbi::translate(const Utterance& utt,
   };
   typedef std::unordered_set<VNode, decltype(hash), decltype(equal)> VStack;
 
+/* create a stack for each word */
+  size_t uLen = utt.size();
+  std::list<VStack> stacks;
+
+/* Populate stacks with a start stack */
+  stacks.emplace_front(8, hash, equal);
+  stacks.front().emplace(voc);
+
+  /* For each stack */
+  for (size_t i = 0; i < uLen; ++i) {
+    VStack curStack(8, hash, equal);
+    std::list<VocId> curCompl;
+    size_t back = 0;
+    for (auto itStack = stacks.begin(); itStack != stacks.end(); ++itStack, ++back) {
+      curCompl.push_front(utt.get_word_id(i - back));
+    }
+    
+  }
+  
+
   LOG(WARNING) << "TODO Viterbi::translate";// TODO:
   return Utterance(voc);
 }

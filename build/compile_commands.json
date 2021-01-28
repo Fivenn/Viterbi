@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/Users/sueur/Dev/Enssat/C++/Viterbi/build/src/easylogging++",
+  "command": "/usr/bin/clang++  -I/Users/sueur/Dev/Enssat/C++/Viterbi/include/Viterbi -I/Users/sueur/Dev/Enssat/C++/Viterbi/src/easylogging++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -fPIC -Wall -Wextra -Wwrite-strings -Wconversion -DELPP_NO_DEFAULT_LOG_FILE -std=gnu++11 -o CMakeFiles/easylogging++.dir/easylogging++.cpp.o -c /Users/sueur/Dev/Enssat/C++/Viterbi/src/easylogging++/easylogging++.cpp",
+  "file": "/Users/sueur/Dev/Enssat/C++/Viterbi/src/easylogging++/easylogging++.cpp"
+},
+{
+  "directory": "/Users/sueur/Dev/Enssat/C++/Viterbi/build/src/useful",
+  "command": "/usr/bin/clang++  -I/Users/sueur/Dev/Enssat/C++/Viterbi/include/Viterbi -I/Users/sueur/Dev/Enssat/C++/Viterbi/src/useful -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -fPIC -Wall -Wextra -Wwrite-strings -Wconversion -DELPP_NO_DEFAULT_LOG_FILE -std=gnu++11 -o CMakeFiles/useful.dir/text_proc_parser.cpp.o -c /Users/sueur/Dev/Enssat/C++/Viterbi/src/useful/text_proc_parser.cpp",
+  "file": "/Users/sueur/Dev/Enssat/C++/Viterbi/src/useful/text_proc_parser.cpp"
+},
+{
+  "directory": "/Users/sueur/Dev/Enssat/C++/Viterbi/build/src/useful",
+  "command": "/usr/bin/clang++  -I/Users/sueur/Dev/Enssat/C++/Viterbi/include/Viterbi -I/Users/sueur/Dev/Enssat/C++/Viterbi/src/useful -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -fPIC -Wall -Wextra -Wwrite-strings -Wconversion -DELPP_NO_DEFAULT_LOG_FILE -std=gnu++11 -o CMakeFiles/useful.dir/various.cpp.o -c /Users/sueur/Dev/Enssat/C++/Viterbi/src/useful/various.cpp",
+  "file": "/Users/sueur/Dev/Enssat/C++/Viterbi/src/useful/various.cpp"
+},
+{
+  "directory": "/Users/sueur/Dev/Enssat/C++/Viterbi/build/src/optionsParser",
+  "command": "/usr/bin/clang++ -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/Users/sueur/Dev/Enssat/C++/Viterbi/include/Viterbi -I/Users/sueur/Dev/Enssat/C++/Viterbi/src/optionsParser -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -fPIC -Wall -Wextra -Wwrite-strings -Wconversion -DELPP_NO_DEFAULT_LOG_FILE -std=gnu++11 -o CMakeFiles/optionsParser.dir/optionsParser.cpp.o -c /Users/sueur/Dev/Enssat/C++/Viterbi/src/optionsParser/optionsParser.cpp",
+  "file": "/Users/sueur/Dev/Enssat/C++/Viterbi/src/optionsParser/optionsParser.cpp"
+},
+{
+  "directory": "/Users/sueur/Dev/Enssat/C++/Viterbi/build/src/viterbi",
+  "command": "/usr/bin/clang++  -I/Users/sueur/Dev/Enssat/C++/Viterbi/include/Viterbi -I/Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -fPIC -Wall -Wextra -Wwrite-strings -Wconversion -DELPP_NO_DEFAULT_LOG_FILE -std=gnu++11 -o CMakeFiles/viterbi.dir/translation_table.cpp.o -c /Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi/translation_table.cpp",
+  "file": "/Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi/translation_table.cpp"
+},
+{
+  "directory": "/Users/sueur/Dev/Enssat/C++/Viterbi/build/src/viterbi",
+  "command": "/usr/bin/clang++  -I/Users/sueur/Dev/Enssat/C++/Viterbi/include/Viterbi -I/Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -fPIC -Wall -Wextra -Wwrite-strings -Wconversion -DELPP_NO_DEFAULT_LOG_FILE -std=gnu++11 -o CMakeFiles/viterbi.dir/utterance.cpp.o -c /Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi/utterance.cpp",
+  "file": "/Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi/utterance.cpp"
+},
+{
+  "directory": "/Users/sueur/Dev/Enssat/C++/Viterbi/build/src/viterbi",
+  "command": "/usr/bin/clang++  -I/Users/sueur/Dev/Enssat/C++/Viterbi/include/Viterbi -I/Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -fPIC -Wall -Wextra -Wwrite-strings -Wconversion -DELPP_NO_DEFAULT_LOG_FILE -std=gnu++11 -o CMakeFiles/viterbi.dir/viterbi.cpp.o -c /Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi/viterbi.cpp",
+  "file": "/Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi/viterbi.cpp"
+},
+{
+  "directory": "/Users/sueur/Dev/Enssat/C++/Viterbi/build/src/viterbi",
+  "command": "/usr/bin/clang++  -I/Users/sueur/Dev/Enssat/C++/Viterbi/include/Viterbi -I/Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -fPIC -Wall -Wextra -Wwrite-strings -Wconversion -DELPP_NO_DEFAULT_LOG_FILE -std=gnu++11 -o CMakeFiles/viterbi.dir/vocabulary.cpp.o -c /Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi/vocabulary.cpp",
+  "file": "/Users/sueur/Dev/Enssat/C++/Viterbi/src/viterbi/vocabulary.cpp"
+},
+{
+  "directory": "/Users/sueur/Dev/Enssat/C++/Viterbi/build/apps",
+  "command": "/usr/bin/clang++ -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/Users/sueur/Dev/Enssat/C++/Viterbi/include/Viterbi -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -fPIE -Wall -Wextra -Wwrite-strings -Wconversion -DELPP_NO_DEFAULT_LOG_FILE -std=gnu++11 -o CMakeFiles/viterbiBin.dir/viterbi-run.cpp.o -c /Users/sueur/Dev/Enssat/C++/Viterbi/apps/viterbi-run.cpp",
+  "file": "/Users/sueur/Dev/Enssat/C++/Viterbi/apps/viterbi-run.cpp"
+}
+]
